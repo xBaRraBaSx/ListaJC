@@ -1,250 +1,250 @@
 #EXTM3U
 
-#EXTINF:-1 group-tittle="NACIONALES",01 - Unitel
+#EXTINF:-1 group-title="NACIONALES",01 - Unitel
 https://stream-04.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlzev9GuvkhjN3VqOqITpic4)/dm/3/x7wzxiw/s/live-3.m3u8
 
-#EXTINF:-1 group-tittle="NACIONALES",02- Red Uno
+#EXTINF:-1 group-title="NACIONALES",02- Red Uno
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnwLnMEcpF-5GIAYQC4WyOI)/dm/3/x825whp/d/live-3.m3u8
 
-#EXTINF:-1 group-tittle="NACIONALES",03- ATB
+#EXTINF:-1 group-title="NACIONALES",03- ATB
 https://clientes.videostreaming.ar:19360/atbbolivia/atbbolivia.m3u8
 
-#EXTINF:-1 group-tittle="NACIONALES",04- Bolivisión
+#EXTINF:-1 group-title="NACIONALES",04- Bolivisión
 https://bo-bolivision-lapaz-live.ned.media:443/bolivision/smil:lapaz.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ1OTA2NTAzLCJzZXNzaW9uIjoiMTg2LjEyMS4xOTUuMTk1Iiwid2hpdGVsaXN0IjpbIjE4Ni4xMjEuMTk1LjE5NSJdfSwic2lnbmF0dXJlIjoiNmRjMzJjOTMxYmY2YTk5NGMxOTMxNDRhMmVhYTZlNDVlMTdlOGQyOCJ9
 
-#EXTINF:-1 group-tittle="NACIONALES",05- PAT
+#EXTINF:-1 group-title="NACIONALES",05- PAT
 https://master.tucableip.com/pat/playlist.m3u8
 
-#EXTINF:-1 group-tittle="NACIONALES",06- Bolivia TV 7.1
+#EXTINF:-1 group-title="NACIONALES",06- Bolivia TV 7.1
 https://5ca39be538307.streamlock.net/boliviatv/videoboliviatv/chunklist_w1315498096.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIyIDI6MDQ6MzAgQU0maGFzaF92YWx1ZT1aRkxTRStmQmZBTDhoc1lOS3pxZU5BPT0mdmFsaWRtaW51dGVzPTUwJmlkPQ%3D%3D
 
-#EXTINF:-1 group-tittle="DEPORTES",07- ESPN
+#EXTINF:-1 group-title="DEPORTES",07- ESPN
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3230
 
-#EXTINF:-1 group-tittle="DEPORTES",08- ESPN2
+#EXTINF:-1 group-title="DEPORTES",08- ESPN2
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3067
 
-#EXTINF:-1 group-tittle="DEPORTES",09- ESPN3
+#EXTINF:-1 group-title="DEPORTES",09- ESPN3
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3068
 
-#EXTINF:-1 group-tittle="DEPORTES",10- ESPN EXTRA
+#EXTINF:-1 group-title="DEPORTES",10- ESPN EXTRA
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3438
 
-#EXTINF:-1 group-tittle="DEPORTES",11- FOX SPORT
+#EXTINF:-1 group-title="DEPORTES",11- FOX SPORT
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3233
 
-#EXTINF:-1 group-tittle="DEPORTES",12- FOX SPORT 2
+#EXTINF:-1 group-title="DEPORTES",12- FOX SPORT 2
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3234
 
-#EXTINF:-1 group-tittle="DEPORTES",12- FOX SPORT 3
+#EXTINF:-1 group-title="DEPORTES",12- FOX SPORT 3
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3436
 
-#EXTINF:-1 group-tittle="DEPORTES",13- DIRECT TV
+#EXTINF:-1 group-title="DEPORTES",13- DIRECT TV
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3246
 
-#EXTINF:-1 group-tittle="DEPORTES",14- DIRECT TV 2
+#EXTINF:-1 group-title="DEPORTES",14- DIRECT TV 2
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3247
 
-#EXTINF:-1 group-tittle="DEPORTES",15- DIRECT TV PLUS
+#EXTINF:-1 group-title="DEPORTES",15- DIRECT TV PLUS
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3248
 
-#EXTINF:-1 group-tittle="DEPORTES",16- TyC SPORT
+#EXTINF:-1 group-title="DEPORTES",16- TyC SPORT
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3238
 
-#EXTINF:-1 group-tittle="INFANTILES",18- Disney Channel
+#EXTINF:-1 group-title="INFANTILES",18- Disney Channel
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3058
 
-#EXTINF:-1 group-tittle="INFANTILES",19- Disney Kids
+#EXTINF:-1 group-title="INFANTILES",19- Disney Kids
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3403
 
-#EXTINF:-1 group-tittle="INFANTILES",20- Disney XD
+#EXTINF:-1 group-title="INFANTILES",20- Disney XD
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3060
 
-#EXTINF:-1 group-tittle="INFANTILES",21- Nickelodeon
+#EXTINF:-1 group-title="INFANTILES",21- Nickelodeon
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3111
 
-#EXTINF:-1 group-tittle="INFANTILES",22- TeamNick
+#EXTINF:-1 group-title="INFANTILES",22- TeamNick
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3112
 
-#EXTINF:-1 group-tittle="INFANTILES",23- Nick Toons
+#EXTINF:-1 group-title="INFANTILES",23- Nick Toons
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3114
 
-#EXTINF:-1 group-tittle="INFANTILES",24- Nick JR
+#EXTINF:-1 group-title="INFANTILES",24- Nick JR
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3113
 
-#EXTINF:-1 group-tittle="INFANTILES",25- Cartoon Network
+#EXTINF:-1 group-title="INFANTILES",25- Cartoon Network
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3039
 
-#EXTINF:-1 group-tittle="INFANTILES",26- NatGeo KIDS
+#EXTINF:-1 group-title="INFANTILES",26- NatGeo KIDS
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3109
 
-#EXTINF:-1 group-tittle="INFANTILES",27- ToonCast
+#EXTINF:-1 group-title="INFANTILES",27- ToonCast
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3132
 
-#EXTINF:-1 group-tittle="INFANTILES",28- BitMe
+#EXTINF:-1 group-title="INFANTILES",28- BitMe
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3035
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",29- Cine Canal
+#EXTINF:-1 group-title="PELICULAS SERIES",29- Cine Canal
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3040
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",30- CineMAX
+#EXTINF:-1 group-title="PELICULAS SERIES",30- CineMAX
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3041
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",31- Universal Channel
+#EXTINF:-1 group-title="PELICULAS SERIES",31- Universal Channel
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3137
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",32- Studios Universal
+#EXTINF:-1 group-title="PELICULAS SERIES",32- Studios Universal
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3307
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",33- FXM
+#EXTINF:-1 group-title="PELICULAS SERIES",33- FXM
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3085
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",34- Paramount Channel
+#EXTINF:-1 group-title="PELICULAS SERIES",34- Paramount Channel
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3116
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",35- MAC
+#EXTINF:-1 group-title="PELICULAS SERIES",35- MAC
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3021
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",36- Golden
+#EXTINF:-1 group-title="PELICULAS SERIES",36- Golden
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3089
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",37- Golden Edge
+#EXTINF:-1 group-title="PELICULAS SERIES",37- Golden Edge
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3090
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",38- Golden Plus
+#EXTINF:-1 group-title="PELICULAS SERIES",38- Golden Plus
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3091
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",39- Golden Premier
+#EXTINF:-1 group-title="PELICULAS SERIES",39- Golden Premier
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.sitee/3092
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",40- Space
+#EXTINF:-1 group-title="PELICULAS SERIES",40- Space
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3119
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",41- TNT
+#EXTINF:-1 group-title="PELICULAS SERIES",41- TNT
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3130
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",42- TNT Series
+#EXTINF:-1 group-title="PELICULAS SERIES",42- TNT Series
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3131
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",43- HBO
+#EXTINF:-1 group-title="PELICULAS SERIES",43- HBO
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3296
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",44- HBO 2
+#EXTINF:-1 group-title="PELICULAS SERIES",44- HBO 2
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3297
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",45- HBO Family
+#EXTINF:-1 group-title="PELICULAS SERIES",45- HBO Family
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3298
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",46- HBO Plus
+#EXTINF:-1 group-title="PELICULAS SERIES",46- HBO Plus
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3300
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",48- HBO Pop
+#EXTINF:-1 group-title="PELICULAS SERIES",48- HBO Pop
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3304
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",49- HBO Signature
+#EXTINF:-1 group-title="PELICULAS SERIES",49- HBO Signature
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3301
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",50- HBO Xtreme
+#EXTINF:-1 group-title="PELICULAS SERIES",50- HBO Xtreme
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3302
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",51- ISAT
+#EXTINF:-1 group-title="PELICULAS SERIES",51- ISAT
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3448
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",52- De Película
+#EXTINF:-1 group-title="PELICULAS SERIES",52- De Película
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3045
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",53- De Película Clásico
+#EXTINF:-1 group-title="PELICULAS SERIES",53- De Película Clásico
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3046
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",54- Warner
+#EXTINF:-1 group-title="PELICULAS SERIES",54- Warner
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3140
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",55- Star Channel
+#EXTINF:-1 group-title="PELICULAS SERIES",55- Star Channel
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3072
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",56- Star Life
+#EXTINF:-1 group-title="PELICULAS SERIES",56- Star Life
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3078
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",57- FX
+#EXTINF:-1 group-title="PELICULAS SERIES",57- FX
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3084
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",58- AXN
+#EXTINF:-1 group-title="PELICULAS SERIES",58- AXN
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3025
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",59- Sony Channel
+#EXTINF:-1 group-title="PELICULAS SERIES",59- Sony Channel
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3118
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",60- TRU tv
+#EXTINF:-1 group-title="PELICULAS SERIES",60- TRU tv
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3133
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",61- TBS
+#EXTINF:-1 group-title="PELICULAS SERIES",61- TBS
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3123
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",62- LifeTime
+#EXTINF:-1 group-title="PELICULAS SERIES",62- LifeTime
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3101
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",63- SyFy
+#EXTINF:-1 group-title="PELICULAS SERIES",63- SyFy
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3122
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",64- TCM
+#EXTINF:-1 group-title="PELICULAS SERIES",64- TCM
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3124
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",65- Discovery
+#EXTINF:-1 group-title="PELICULAS SERIES",65- Discovery
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3048
 
-#EXTINF:-1 group-tittle="PELICULAS SERIES",66- Science
+#EXTINF:-1 group-title="PELICULAS SERIES",66- Science
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3053
 
-#EXTINF:-1 group-tittle="DOCUMENTALES",67- Animal Planet
+#EXTINF:-1 group-title="DOCUMENTALES",67- Animal Planet
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3022
 
-#EXTINF:-1 group-tittle="DOCUMENTALES",68- National Geographic
+#EXTINF:-1 group-title="DOCUMENTALES",68- National Geographic
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3108
 
-#EXTINF:-1 group-tittle="DOCUMENTALES",69- NatGeo Wild
+#EXTINF:-1 group-title="DOCUMENTALES",69- NatGeo Wild
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3110
 
-#EXTINF:-1 group-tittle="DOCUMENTALES",70- NatGeo Kids
+#EXTINF:-1 group-title="DOCUMENTALES",70- NatGeo Kids
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3109
 
-#EXTINF:-1 group-tittle="DOCUMENTALES",71- History
+#EXTINF:-1 group-title="DOCUMENTALES",71- History
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3095
 
-#EXTINF:-1 group-tittle="DOCUMENTALES",72- HGTV
+#EXTINF:-1 group-title="DOCUMENTALES",72- HGTV
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3094
 
-#EXTINF:-1 group-tittle="DOCUMENTALES",73- El Gourmet
+#EXTINF:-1 group-title="DOCUMENTALES",73- El Gourmet
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3064
 
-#EXTINF:-1 group-tittle="DOCUMENTALES",74- Food Network
+#EXTINF:-1 group-title="DOCUMENTALES",74- Food Network
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3070
 
-#EXTINF:-1 group-tittle="Internacionales",75- TLC
+#EXTINF:-1 group-title="Internacionales",75- TLC
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3055
 
-#EXTINF:-1 group-tittle="Internacionales",76- Las Estrellas
+#EXTINF:-1 group-title="Internacionales",76- Las Estrellas
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3100
 
-#EXTINF:-1 group-tittle="Internacionales",77- TeleMundo
+#EXTINF:-1 group-title="Internacionales",77- TeleMundo
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3127
 
-#EXTINF:-1 group-tittle="Internacionales",78- TeleNovelas
+#EXTINF:-1 group-title="Internacionales",78- TeleNovelas
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3129
 
-#EXTINF:-1 group-tittle="Internacionales",79- Mas Chic
+#EXTINF:-1 group-title="Internacionales",79- Mas Chic
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3102
 
-#EXTINF:-1 group-tittle="Internacionales",80- Glitz
+#EXTINF:-1 group-title="Internacionales",80- Glitz
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3088
 
-#EXTINF:-1 group-tittle="Internacionales",81- Telehit
+#EXTINF:-1 group-title="Internacionales",81- Telehit
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3126
 
-#EXTINF:-1 group-tittle="Internacionales",82- MTV
+#EXTINF:-1 group-title="Internacionales",82- MTV
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3106
 
-#EXTINF:-1 group-tittle="Internacionales",83- CNN Español
+#EXTINF:-1 group-title="Internacionales",83- CNN Español
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3042
 
-#EXTINF:-1 group-tittle="Internacionales",84- CNN International
+#EXTINF:-1 group-title="Internacionales",84- CNN International
 http://gratuita.mrzutv.net:8080/listameugratis-visita-mexiqueando.sitelistameugratis-visita-mexiqueando.site/listameugratis-visita-mexiqueando.site/3043
