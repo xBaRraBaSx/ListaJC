@@ -4,5 +4,5 @@ Buscador de listas de reproducción
 #EXTM3U
 #EXTINF:-1,TyC Sports
 https://s@d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-2,Tpe
-https://f6z5x8d4.stackpathcdn.com/stream_720/index.m3u8
+#EXTINF:-2,Bein Sport
+https://playing.tunnelcdnsw.net/live/beinsport2fr/index.m3u8
